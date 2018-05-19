@@ -573,7 +573,8 @@
 
   <include name="snippets/lineage.xml" />
   <include name="snippets/havoc.xml" />
-
+  <include name="snippets/gp.xml" />
+	
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
